@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsbloge206a84f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
